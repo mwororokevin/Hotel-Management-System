@@ -16,5 +16,7 @@ namespace Hotel_PMS.Models
         public string OccupancyStatus { get; set; }
 
         public string SmokingStatus { get; set; }
+
+        public double RoomDailyRate { get; set; }
     }
 }
